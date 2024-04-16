@@ -13,7 +13,7 @@ My one true love is data, but I am open to roles in front-end or full-stack deve
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/igor-langoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="[your link](https://www.instagram.com/igorlangoni/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/igorlangoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -37,6 +37,18 @@ My one true love is data, but I am open to roles in front-end or full-stack deve
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
+
+<br>
+
+<h2 align='center'>PROJECTS</h2>
+
+<br>
+
+  <ul>
+    <li><a href="https://github.com/igorlangoni/final_project_data_eng_makers" target="_blank">PISA2018 Education Insights Data Pipeline & Dashboard</a></li>
+    <li><a href="https://github.com/igorlangoni/online_retail_data_pipeline" target="_blank">Online Retail Data Pipeline & Dashboard</a></li>
+    <li><a href="https://github.com/igorlangoni/makersbnb_project" target="_blank">MakersBNB Full-Stack Web Application</a></li>
+  </ul>
 
 <br>
 
