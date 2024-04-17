@@ -1,5 +1,4 @@
 ![banner (1)](https://github.com/igorlangoni/igorlangoni/assets/123383171/b26ca3ac-433f-45c7-94fd-6fe64186dd4a)
-
 <h2 align='center'>PERSONAL PROFILE</h2>
 
 <br>
@@ -10,10 +9,13 @@ My one true love is data, but I am open to roles in front-end or full-stack deve
 
 <br>
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/igor-langoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/igorlangoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://igorlangoni.github.io/portfolio/" target="blank"><img align="center" src="https://github.com/igorlangoni/portfolio/blob/main/assets/web-icon.svg" alt="portfolio icon" height="30" width="40" /></a>
+
 </p>
 
 <br>
